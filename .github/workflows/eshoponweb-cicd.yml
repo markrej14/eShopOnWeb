@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 7e5f9415-69e2-4f31-b701-131a57386628
-  WEBAPP-NAME: eshoponweb-webapp-NAME-MABELEDA
+  WEBAPP-NAME: shoponweb-webapp-dev-eastus
 
 
 jobs:
